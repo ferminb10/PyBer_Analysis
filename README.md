@@ -1,26 +1,11 @@
 # PyBer_Analysis
-Performing analysis on City data to uncover trends.
+Performing analysis on ride-sharing City data to uncover trends.
 ## Overview of Project
-This weeks challenge helps us build upon our skills learned in the python module. For deliverables, the client wanted additional information analyzed from the election results. To complete the audit, for loops, conditional statements with memberships and logical operators were used to investigate parameters such as percentage vote by county, voter and county turnout. To concluded the summary, a text file was generated to record the findings.
+This weeks challenge helps us build upon our skills learned in the PyBer with Matplotlib module. For deliverables, the client wanted a summary DataFrame of the ride-sharing data by city type. Pandas and Matplotlib was used to create a multi-line graph that shows the total weekly fares for each city type. This report summarizes how the data differs by city type and how those differences can be used by decisionmakers at PyBer.
 
 ## Results
-The analysis had few tasks. For deliverable 1, votes for counties and candidates and the winning election results were required to be printed on the terminal, shown in Figure 1. Deliverable 2 required this data to be generated in a text file. It was a key element to generate dictionaries and lists with the data contained in CVS file to fulfill the requirements.
+Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns, the the total number of rides, total number of drivers, and the total fares were found for each city type. Then, the average fare per ride and per driver was calculated for each city type. Finally, these parameters were added to a new DataFrame and formatted into columns.
 
-In this congressional election, there were 369,711 votes that were cast. Provided below are the counties with the largest number of votes in decending order:
-* Denver
-  * 306,055 votes (82.8%)
-* Jefferson 
-  * 38,855 votes (10.5%)
-* Arapahoe
-  * 24,801 votes (6.7%)
-
-Below is a breakdown of the number of votes and their respective percentage of the total votes each candidate recieved. The canidate that won was Diana DeGette and the runners up in decending order by total votes are shown below:
-* Diana DeGette
-  * 272,892 votes (73.8%)    
-* Charles Casper Stockham
-  * 85,213 votes (23.0%)
-* Raymon Anthony Doane
-  * 11,606 votes (3.1%)
 
 ### Election Results Summary
 ![election_results](https://user-images.githubusercontent.com/107658895/176082445-ede641f1-8329-431c-8e59-a02f2ff13f01.png)

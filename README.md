@@ -9,7 +9,7 @@ Using the Pandas groupby() function with the count() and sum() methods on PyBer 
 The differences in ride-sharing data among the different city types are that there are more total rides in Urban areas, then follows Suburban and Rural, respectfully. Ride-sharing data, shown in Figure 1, include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 ### Pyber Summary
 ![pyber_summary_df](https://user-images.githubusercontent.com/107658895/178622101-39e389c7-6189-404f-b665-547ba45b0dad.png)
-##### Figure 1: Displays the ride and driver summary for each city type.
+##### Figure 1: Displays the summary for each city type.
 
 ### Pyber Fare Summary Chart
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/107658895/178627421-5c465a87-515e-43c6-8906-6e856428d361.png)

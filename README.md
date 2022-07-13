@@ -11,9 +11,11 @@ The differences in ride-sharing data among the different city types are that the
 ![pyber_summary_df](https://user-images.githubusercontent.com/107658895/178622101-39e389c7-6189-404f-b665-547ba45b0dad.png)
 ##### Figure 1: Displays the summary for each city type.
 
+The client wanted wanted to a visual showing a multiple-line chart of total fares for each city type through January 2019 to April 2019.
+
 ### Pyber Fare Summary Chart
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/107658895/178627421-5c465a87-515e-43c6-8906-6e856428d361.png)
-##### Figure 2: Displays the Total Fare by city type chart between January 2019 to April 2019
+##### Figure 2: Displays the Total Fare by city type chart between January 2019 to April 2019.
 
 
 

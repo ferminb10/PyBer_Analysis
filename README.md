@@ -8,11 +8,11 @@ Using the Pandas groupby() function with the count() and sum() methods on PyBer 
 
 ### Pyber Summary
 ![pyber_summary_df](https://user-images.githubusercontent.com/107658895/178622101-39e389c7-6189-404f-b665-547ba45b0dad.png)
-##### Figure 1: Displays the 
+##### Figure 1: Displays the ride and driver summary for each city type.
 
 ### Pyber Fare Summary Chart
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/107658895/178627421-5c465a87-515e-43c6-8906-6e856428d361.png)
-##### Figure 1: Displays the Total Fare by city type chart between January 2019 to April 2019
+##### Figure 2: Displays the Total Fare by city type chart between January 2019 to April 2019
 
 
 

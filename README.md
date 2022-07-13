@@ -20,9 +20,4 @@ The client wanted wanted to a visual showing a multiple-line chart of total fare
 
 
 ## Summary
-
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types. There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-A major recommendation is to incentivize more drivers to work in rural areas since the average fare per driver ($55.49) is 3.35 times higher than in Urban areas ($16.57). Many drivers might not know this information this is why they might not want to drive to these city types. You can tell this city type needs the drivers since the amount of rides exceeds the number of drivers.  A second recommnendation would be to
-
-
-The limitations of this dataset are that they only limit to a little more than a quarter of the year. It would also be interesting to see how the trendlines follow during the Summer, Fall and end of the year.
+A major recommendation is to incentivize more drivers to work in rural areas since the average fare per driver ($55.49) is 3.35 times higher than in Urban areas ($16.57). Many drivers might not know this information this is why they might not want to drive to these city types. You can tell this city type needs the drivers since the amount of rides exceeds the number of drivers.  A second recommnendation would be to investigate the trendlines for the times of the year where traveling and vacations is most prominent like during the summer time. The final recommendation would be to incorperate the average fare times. The rural city types are a lot more open than Urban zones. This might be a key factor when thinking about the rising gas prices. The limitations of this dataset are that they only limit to a little more than a quarter of the year. It would also be interesting to see how the trendlines follow during the Summer, Fall and end of the year.

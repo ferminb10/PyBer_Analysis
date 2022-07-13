@@ -8,12 +8,11 @@ Using the Pandas groupby() function with the count() and sum() methods on PyBer 
 
 ### Pyber Summary
 ![pyber_summary_df](https://user-images.githubusercontent.com/107658895/178622101-39e389c7-6189-404f-b665-547ba45b0dad.png)
-##### Figure 1 above displays the election results that were printed on the terminal and text file
+##### Figure 1: Displays the 
 
 ### Pyber Fare Summary Chart
-![PyBer_fare_summary](https://user-images.githubusercontent.com/107658895/178621407-2127dc6e-6a54-426a-b229-6e1b28d2ca27.png)
-##### Figure 1 above displays the election results that were printed on the terminal and text file
-
+![PyBer_fare_summary](https://user-images.githubusercontent.com/107658895/178627421-5c465a87-515e-43c6-8906-6e856428d361.png)
+##### Figure 1: Displays the Total Fare by city type chart between January 2019 to April 2019
 
 
 
